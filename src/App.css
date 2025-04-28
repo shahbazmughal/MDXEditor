@@ -1,0 +1,179 @@
+.App {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 20px auto 0;
+  padding: 20px;
+  background-color: #fcfcfc;
+  color: #333;
+  line-height: 1.2; 
+  font-size: 0.875rem;
+  transition: all 0.3s ease;
+}
+
+.mdx-editor {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+pre {
+  background-color: #2d2d2d;
+  color: #f5f5f5;
+  padding: 15px;
+  border-radius: 5px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  margin-top: 25px;
+}
+
+code {
+  font-size: 1rem;
+}
+._editorWrapper_1pxqm_155 {
+  background: #FFF;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.10);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+._contentEditable_1pxqm_380 {
+  /* padding: 0 15px 15px; */
+}
+
+#radix-«ru» {
+  display: block;
+}
+div#radix-«ru» h2#radix-«rv» {
+  margin-bottom: 0;
+  padding: 0 8px;
+}
+
+.mdxeditor h1,.mdxeditor h2,.mdxeditor h3 {
+  margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* App.css */
+
+/* Style for the toolbar buttons */
+.my-classname {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.toolbar-btn {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.toolbar-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Preview Toggle Button */
+.preview-toggle-btn {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.preview-toggle-btn:hover {
+  background-color: #0056b3;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* App.css */
+
+/* Style for the toolbar buttons */
+.my-classname {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.toolbar-btn {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.toolbar-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Preview Toggle Button */
+.preview-toggle-btn {
+  padding: 8px 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.preview-toggle-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Styling for the Editor */
+.editor {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.preview {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
